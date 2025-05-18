@@ -1,6 +1,5 @@
 {
 	"$schema": "vscode://schemas/color-theme",
-    "name": "Crescent",
 	"type": "dark",
 	"colors": {
 		"activityBar.activeBackground": "#bd93f910",
@@ -64,6 +63,7 @@
 		"editorGutter.modifiedBackground": "#8be9fd80",
 		"editorHoverWidget.background": "#282a36",
 		"editorHoverWidget.border": "#6272a4",
+		"editorHoverWidget.foreground": "#eaeaeb",
 		"editorLineNumber.foreground": "#6272a4",
 		"editorLink.activeForeground": "#8be9fd",
 		"editorMarkerNavigation.background": "#21222c",
@@ -107,6 +107,7 @@
 		"inputValidation.errorBorder": "#ff5555",
 		"inputValidation.infoBorder": "#ff79c6",
 		"inputValidation.warningBorder": "#ffb86c",
+		"keybindingLabel.foreground": "#000000",
 		"list.activeSelectionBackground": "#44475a",
 		"list.activeSelectionForeground": "#f8f8f2",
 		"list.dropBackground": "#44475a",
@@ -341,7 +342,6 @@
 		//"editorGutter.commentUnresolvedGlyphForeground": "#f8f8f2",
 		//"editorGutter.foldingControlForeground": "#c5c5c5",
 		//"editorHint.foreground": "#eeeeeeb3",
-		//"editorHoverWidget.foreground": "#000000",
 		//"editorHoverWidget.highlightForeground": "#8be9fd",
 		//"editorHoverWidget.statusBarBackground": "#303241",
 		//"editorIndentGuide.activeBackground1": "#ffffff45",
@@ -461,7 +461,6 @@
 		//"keybindingLabel.background": "#8080802b",
 		//"keybindingLabel.border": "#33333399",
 		//"keybindingLabel.bottomBorder": "#44444499",
-		//"keybindingLabel.foreground": "#cccccc",
 		//"keybindingTable.headerBackground": "#f8f8f20a",
 		//"keybindingTable.rowsBackground": "#f8f8f20a",
 		//"list.deemphasizedForeground": "#8c8c8c",

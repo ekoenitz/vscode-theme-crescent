@@ -27,5 +27,7 @@
             "titleBar.inactiveForeground":"#424243",
             "editorGroupHeader.noTabsBackground": "#EAEAEB",
             "editorGroupHeader.tabsBackground": "#EAEAEB",
+            "editorHoverWidget.foreground": "#EAEAEB",
+            "keybindingLabel.foreground": "#000000",
         }
     }
